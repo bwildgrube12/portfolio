@@ -1,0 +1,40 @@
+<html>
+    <head>
+        <title>My Portfolio</title>
+        <script src="scripts.js"></script>
+        <link rel="stylesheet" href="styles.css" />
+    </head>
+    <body>
+
+        <h1>Senior research project</h1>
+
+        <h2>About</h2>
+
+        <p>Complete a year-long research project through my high school's stem research program. Cunducted a study on creating unmaned quadcopter to fly on Mars. Completed testing on propellers in less atmosphere with a bell vacuum chamber. Wrote a journal-style paper on my research</p>
+
+        <h2>Pictures</h2>
+
+        <!-- <p><img src="./images/fin_assembly_draft1.jpg" width="400" height="auto"/></p>
+        <!-- <p><img src="./images/nosecone_draft1.jpg" width="400" height="auto"/></p>
+        
+        <h2>Paper<h2>
+
+        <!-- <h2>Videos</h2>
+        <!-- Go to YouTube, find video, select "Share" and copy Embed code here -->
+        <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/DLzxrzFCyOs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <h2>Code</h2>
+        <pre><code>
+from spike import PrimeHub, Motor, MotorPair
+from spike.control import wait_for_seconds, wait_until, Timer
+from math import *
+hub = PrimeHub()
+hub.light_matrix.show_image('HAPPY')
+        </code></pre>
+        <h2>Conclusion</h2>
+        <p>My reflections about the project...</p>
+        <hr /><!-- horizontal line -->
+
+        <a href="index.html">Back to Project List</a>
+
+    </body>
+</html>
