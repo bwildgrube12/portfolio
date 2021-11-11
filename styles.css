@@ -15,6 +15,7 @@ pre code {
 }
 
 h1 {
+  background: black;
   color: powderblue;
   font-family: "Helvetica";
   font-style: italic;
