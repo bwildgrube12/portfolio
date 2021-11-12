@@ -14,8 +14,14 @@ pre code {
 
 }
 
+.header {
+  background-color: #ffa91f;
+  text-align: center;
+  padding: 20px;
+}
+
+
 h1 {
-  background: black;
   color: powderblue;
   font-family: "Helvetica";
   font-style: italic;
