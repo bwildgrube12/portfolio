@@ -13,13 +13,11 @@ pre code {
 }
 
 .header {
-  background-color: black;
+  background-color: gray;
   text-align: center;
-  h1 {
     text-size: 500px;
-    color: white;
+    color: powderblue;
     font-family: "Helvetica";
-   }
 }
 
 
