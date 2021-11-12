@@ -5,16 +5,13 @@ pre code {
   white-space: pre;
   max-width: 100%;
   min-width: 100px;
-  border: 15px gray;
-  padding: 50px;
-  margin: 20px;
 
   background: #ffffff;
   word-wrap: break-word;
   box-decoration-break: clone;
   padding: .1rem .3rem .2rem;
   border-radius: .2rem;
-  text-align: center;
+
 }
 
 h1 {
@@ -22,6 +19,7 @@ h1 {
   color: powderblue;
   font-family: "Helvetica";
   font-style: italic;
+  text-align: center;
 }
 
 
