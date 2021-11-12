@@ -5,7 +5,6 @@ pre code {
   white-space: pre;
   max-width: 100%;
   min-width: 100px;
-  width: 300px;
   border: 15px gray;
   padding: 50px;
   margin: 20px;
@@ -15,6 +14,7 @@ pre code {
   box-decoration-break: clone;
   padding: .1rem .3rem .2rem;
   border-radius: .2rem;
+  text-align: center;
 }
 
 h1 {
