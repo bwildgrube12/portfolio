@@ -15,11 +15,13 @@ pre code {
 }
 
 .header {
-  background-color: #ffa91f;
+  background-color: black;
   text-align: center;
-  padding: 20px;
-  text-size: 50px;
-  color: white;
+  h1 {
+    text-size: 500px;
+    color: white;
+    font-family: "Helvetica";
+   }
 }
 
 
