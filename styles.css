@@ -1,21 +1,23 @@
 
 /* styling code snippets */
 pre code {
-  display: block;
+  /*display: block;
   white-space: pre;
   max-width: 100%;
   min-width: 100px;
+  box-decoration-break: clone;
+  */
 
   background: #ffffff;
   word-wrap: break-word;
-  box-decoration-break: clone;
 
 }
 
 .header {
+  padding: 20px;
   background-color: gray;
   text-align: center;
-    text-size: 500px;
+    text-size: 5000px;
     color: powderblue;
     font-family: "Helvetica";
 }
